@@ -64,7 +64,7 @@ alarmEmoji1.addEventListener('click', function () {
 });
 
 function connect() {
-    const socket = new WebSocket('wss://fstream.binance.com/ws/btcusdt@aggTrade/btcusdt@markPrice@1s');
+    const socket = new WebSocket('wss://fstream.binance.com/market/ws/btcusdt@aggTrade/btcusdt@markPrice@1s');
     socket.onopen = () => {
         console.log('Connected to the Server');
         isPaused = false;
