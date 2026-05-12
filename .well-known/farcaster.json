@@ -7,11 +7,11 @@
     "frame": {
       "version": "1",
       "name": "Big Trades",
-      "iconUrl": "https://trades-zeta.vercel.app/bigtradeslogo.png",
-      "homeUrl": "https://trades-zeta.vercel.app/",
-      "imageUrl": "https://trades-zeta.vercel.app/bigtradeslogo.png",
+      "iconUrl": "https://biggies-eight.vercel.app/bigtradeslogo.png",
+      "homeUrl": "https://biggies-eight.vercel.app/",
+      "imageUrl": "https://biggies-eight.vercel.app/bigtradeslogo.png",
       "buttonTitle": "Start",
-      "splashImageUrl": "https://trades-zeta.vercel.app/bigtradeslogo.png",
+      "splashImageUrl": "https://biggies-eight.vercel.app/bigtradeslogo.png",
       "splashBackgroundColor": "#1a1a1a"
     }
 }
